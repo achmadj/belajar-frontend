@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: aliceblue;
+}
+
+.navbar {
+  display: inline-block;
+}

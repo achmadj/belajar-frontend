@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.header {
+  padding-top: 30px;
+  margin: 30px auto;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.hero {
+  width: 80%;
+  align-items: center;
+  margin: 0 auto;
+  /* padding: 30px; */
+  /* padding-bottom: 0; */
+  background-color: whitesmoke;
+  display: flex;
+  color: black;
+}
+
+.hero p {
+  padding-left: 50px;
+  font-size: 50px;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.hero img {
+  width: 50%;
+  filter: grayscale(100%);
+}
+
+.biography {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.biography h1 {
+  margin-bottom: 20px;
+}
+
+.footer {
+  width: 60%;
+  margin: 50px auto;
+  text-align: center;
+  border-top: 2px solid whitesmoke;
+}
